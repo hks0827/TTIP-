@@ -1,2 +1,2 @@
 # TTIP-
-TTIP 개발 환경
+TTIP react-native 개발
